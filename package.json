@@ -1,0 +1,8 @@
+{
+  "name": "sliplane-minimal-docker-example",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.7.0"
+  }
+}
