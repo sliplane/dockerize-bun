@@ -1,4 +1,4 @@
-name: Daily Report
+name: Test Bun
 
 on:
   push:
